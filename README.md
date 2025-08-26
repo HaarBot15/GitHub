@@ -38,4 +38,15 @@ git push
 - [X] Finished task
 
 
+|command|explaining|
+|---|---|
+|`git add`|*something in italics*|
+
 @H
+
+```Javascript
+  function addNumbers(x1,x2){
+    return x1 + x2; // This is a comment
+   }
+```
+   
